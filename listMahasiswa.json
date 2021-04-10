@@ -1,0 +1,20 @@
+{
+  "mahasiswa": [
+    {
+      "NIM": 1841720180,
+      "nama": "Ardyansyah Vira B",
+      "alamat": "Jl. Panglima Sudirman",
+      "hp": "0826635471",
+      "angkatan": 2018,
+      "status": "aktif"
+    },
+    {
+      "NIM": 1841720234,
+      "nama": "Bambang",
+      "alamat": "Jl. Mencari Rezeki",
+      "hp": "0812235467",
+      "angkatan": 2020,
+      "status": "Lulus"
+    }
+  ]
+}
