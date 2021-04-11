@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1618143947604,
+      "nim": "1841720180",
+      "nama": "Ardyansyah Vira B",
+      "alamat": "fjdkshf vneu",
+      "hp": "2344535621",
+      "angkatan": "231",
+      "status": "Aktif"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
